@@ -48,9 +48,9 @@ The results of the regression analysis models created and analyzed in this proje
 - Collect and analyze data from more years. It would be ideal to have data from 2010 until present in order to better predict future housing values.
 
 # Tutorials Referenced
-https://www.youtube.com/watch?v=4yI3vVe0Jos
-https://www.youtube.com/watch?v=4yI3vVe0Jos
-https://www.youtube.com/watch?v=-o3AxdVcUtQ
-https://www.youtube.com/watch?v=QWgg4w1SpJ8
-https://www.youtube.com/watch?v=9m4n2xVzk9o
-https://www.youtube.com/watch?v=7O4dpR9QMIM
+- https://www.youtube.com/watch?v=4yI3vVe0Jos
+- https://www.youtube.com/watch?v=4yI3vVe0Jos
+- https://www.youtube.com/watch?v=-o3AxdVcUtQ
+- https://www.youtube.com/watch?v=QWgg4w1SpJ8
+- https://www.youtube.com/watch?v=9m4n2xVzk9o
+- https://www.youtube.com/watch?v=7O4dpR9QMIM
