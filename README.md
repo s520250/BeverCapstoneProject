@@ -35,12 +35,19 @@ Link to OverLeaf report: https://www.overleaf.com/read/yvgfrmwhpsph
 This project used the following python packages and libraries as well as Excel.
 
 Python: https://www.python.org/downloads/
+
 pandas: https://pandas.pydata.org/docs/getting_started/install.html
+
 numpy : https://www.youtube.com/watch?v=Z7L72qqFtn8
+
 seaborn: https://seaborn.pydata.org/installing.html
+
 matplotlib: https://matplotlib.org/stable/users/installing/index.html
+
 scikit-learn: https://scikit-learn.org/stable/install.html
+
 jupyterlab: https://jupyter.org/install
+
 Excel: https://www.microsoft.com/en-us/microsoft-365/excel
 
 ## Results
