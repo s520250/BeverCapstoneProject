@@ -9,7 +9,7 @@ School: Northwest Missouri State University
 
 Class: 44-688 Data Analytics Capstone Project
 
-Date: April 21, 2023
+Date: April 26, 2023
 
 ## Project Goal
 The overall goal of this project was to analyze features that affect housing prices. This included finding correlations between various data features and housing prices. Regression analysis and machine learning techniques were applied in order to analyze these trends. Models were also built to predict the housing price based on specific features of the data. 
