@@ -31,23 +31,35 @@ Link to OverLeaf report: https://www.overleaf.com/read/yvgfrmwhpsph
 - BeverCapstoneProject.ipynb: This is the Python Notebook used for statistics, visualizations, more data cleaning, and predictive modeling via regression.
 - Ames_Housing_Cleaned_Final.csv: The last line of code in the Python notebook called "BeverCapstoneProject.ipynb" exports the final cleaned data set to this csv file. The data from this csv file was added to the Ames_Housing_WorkingFile.xlsx under the tab called "PythonCleanedFinal."
 
-# Results
+## Installs
+This project used the following python packages and libraries as well as Excel.
+
+Python: https://www.python.org/downloads/
+pandas: https://pandas.pydata.org/docs/getting_started/install.html
+numpy : https://www.youtube.com/watch?v=Z7L72qqFtn8
+seaborn: https://seaborn.pydata.org/installing.html
+matplotlib: https://matplotlib.org/stable/users/installing/index.html
+scikit-learn: https://scikit-learn.org/stable/install.html
+jupyterlab: https://jupyter.org/install
+Excel: https://www.microsoft.com/en-us/microsoft-365/excel
+
+## Results
 The results of the regression analysis models created and analyzed in this project can be seen in the table below. Overall, none of the regression models performed as well as expected in predicting the sale price of a home. The results showed that the multiple linear regression model which used all four of the independent variables (area, overall quality, exterior quality, and kitchen quality) performed the best. This model had the highest R-squared value and lowest RMSE, which is ideal. However, if an investor can only afford to put time, effort, and money into one feature of home, it is recommended they spend it on the overall quality of the home as this was the individual factor that was able to predict sale price the best on its own. The worst performing model was simple linear regression using kitchen quality as the independent variable. This model had the highest RMSE score and lowest R-squared value, which is not ideal.
 
 ![ResultsTable](Results.JPG)
 
-# Limitations
+## Limitations
 - The data analyzed was only for the years 2006 to 2010. 
 - The data analyzed was only for the city of Ames, Iowa.
 - The models are only able to predict within the range they were trained on. It is recommended to add limits, such as the min/max of the independent variable being used, to the input variables in order for the model to perform properly.
 
-# Future Work
+## Future Work
 - Evaluate more of the features included in the original data set as they relate to sale price.
 - Collect data from other regions and cities of the United States so the model could be more widely used.
 - Research and evaluate inflation rates as they compare to the housing trends seen in this data set.
 - Collect and analyze data from more years. It would be ideal to have data from 2010 until present in order to better predict future housing values.
 
-# Tutorials Referenced
+## Tutorials Referenced
 - https://www.youtube.com/watch?v=4yI3vVe0Jos
 - https://www.youtube.com/watch?v=4yI3vVe0Jos
 - https://www.youtube.com/watch?v=-o3AxdVcUtQ
